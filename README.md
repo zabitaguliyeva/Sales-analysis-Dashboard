@@ -8,6 +8,8 @@ This project provides a **Sales Analysis Dashboard** designed to visualize key p
 
 ## Features
 
+
+
 - **Key Metrics Overview**:  
   Display essential KPIs like:
   - **Profit %**: Overall profit percentage (`25%`).
